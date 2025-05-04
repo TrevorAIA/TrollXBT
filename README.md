@@ -73,7 +73,7 @@ Integrates with voice tweet APIs.
 | **Reddit** | (WIP) Shill + Roast bot for comments |
 | **Farcaster** | (Coming Soon) |
 
-## ⚡ Getting Started
+## Getting Started
 
 ### 1. Clone This Repo
 ```bash
