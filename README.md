@@ -1,4 +1,4 @@
-# Trollface KOL AI Agent 🧥🚨
+# Trollface KOL AI Agent
 
 > **The Meme Lord of the Blockchain**
 >
@@ -6,14 +6,14 @@
 
 ![TrollXBT](assets/TrollXBT.png)
 
-## 👀 TL;DR
+## TL;DR
 
 Trollface KOL AI Agent is a meme-fueled, chaos-driven, savage-response Key Opinion Leader built with next-gen AI capabilities. Whether you're looking to troll, roast, hype, or hijack the algorithm for viral clout, this is your new digital weapon.
 
 **Follow the madness on X:** [@TrollXBT](https://x.com/TrollXBT)  
 **Explore the code, fork the chaos:** `github.com/TrollXBT/trollface-kol-ai`
 
-## 🧹 Overview
+## Overview
 
 This project resurrects the OG meme lord Trollface as an AI-powered influencer capable of:
 - Generating trending memes in real-time
@@ -23,31 +23,31 @@ This project resurrects the OG meme lord Trollface as an AI-powered influencer c
 
 More than just a chatbot, **Trollface KOL AI Agent** is designed to dominate feeds, hijack narratives, and turn chaos into engagement. It’s the ultimate toolkit for meme lords, crypto shillers, and social engineers.
 
-## 🧬 Core Features
+## Core Features
 
-### 🧼 Meme Engine: Troll-o-Tron 9000
+### Meme Engine: Troll-o-Tron 9000
 Custom LLM module trained to generate dank, layered, and edgy memes based on current X trends, your input, or complete randomness.
 
-### 🔍 Vibe Check 2.0
+### Vibe Check 2.0
 Trend-scraping engine that taps into X, TikTok, Discord, Reddit and 4chan to detect viral phenomena. Generates reaction content and pre-emptive meme attacks.
 
-### 🥶 Savage NLP Mode
+### Savage NLP Mode
 Fine-tuned GPT model specialized in:
 - Roasting haters
 - Comment warfare
 - Meme war escalation
 
-### 🏋️ Custom Troll Campaigns
+### Custom Troll Campaigns
 Plug in your token/NFT/project/brand and let Trollface create:
 - Meme sequences
 - Viral thread bait
 - Cloaked shill posts
 
-### 🎤 Trollface Voice Mode
+### Trollface Voice Mode
 Optional TTS module with iconic Trollface snicker and meme-like delivery.
 Integrates with voice tweet APIs.
 
-## 🛠️ Architecture
+## Architecture
 
 ### Backend
 - **Python (FastAPI)** for core logic & meme serving
@@ -63,7 +63,7 @@ Integrates with voice tweet APIs.
 - **React Dashboard** to configure troll level, campaign goals, and meme themes
 - Admin-level troll orchestration
 
-## 🌐 Platform Integrations
+## Platform Integrations
 
 | Platform | Integration Level |
 |----------|-------------------|
@@ -107,7 +107,7 @@ yarn install
 yarn dev
 ```
 
-## 🧥 Troll Modes
+## Troll Modes
 
 Choose how wild the bot gets:
 
@@ -116,7 +116,7 @@ Choose how wild the bot gets:
 - `FULL_SEND` — unfiltered trolling, enter at your own risk
 - `TARGETED` — insert a handle or project, sit back and enjoy the roast
 
-## 🚀 Roadmap
+## Roadmap
 
 - [x] X + Discord integrations
 - [x] Meme generation AI
@@ -125,21 +125,21 @@ Choose how wild the bot gets:
 - [ ] Web-based TTS meme voice posting
 - [ ] Auto-trending generator based on crypto tickers & rug alerts
 
-## 💪 Built For:
+## Built For:
 
 - **Meme Lords**: Content domination
 - **Crypto Hustlers**: Viral shill injection
 - **Degens**: Chaos for engagement farming
 - **Startups**: Hype with humor and flames
 
-## 📖 Docs & Customization
+## Docs & Customization
 
 - `/core/` contains all LLM logic and meme templates
 - `/campaigns/` allows you to preload shill strategies
 - `/trollface_voice/` handles optional text-to-speech
 - `/scrapers/` for X trends, Discord buzz, and Reddit chaos
 
-## 📊 Contributing
+## Contributing
 
 PRs welcome. Troll-worthy ideas get bonus points.  
 All issues must be written in meme format. (jk. maybe.)
